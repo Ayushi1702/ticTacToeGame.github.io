@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+.para{
+
+}
+h1{
+    font-size: 53px;
+
+    padding: 2px 0px 0px 0px;
+    color: #f9f7f7;
+    font-weight: 10;
+    /* margin: 10px; */
+}
+
+body{
+    background-color: #117663;
+    text-align: center;
+}
+
+.container{
+
+    height: 67vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1.5rem;
+    box-shadow: 0 0 1.3rem rgb(34, 1, 1);
+    font-size: 12vmin;
+    font-family:cursive;
+    background-color: rgb(232, 245, 112);
+    /* color: rgb(84, 3, 20) */
+}
+.game{
+    height: 66vmn;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 66vmin;
+    gap: 2vmin;
+}
+button{
+
+}
+
+.btn{
+    padding: auto;
+    margin: 1vmin;
+    font-size: 2.8vmin;
+    height: 3.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 7.9rem;
+    background-color: rgb(48, 2, 2);
+color: beige;
+    border-radius: 1.3rem;
+}
+
+.para {
+    color: #f9f7f7;
+    font-size: 3rem;
+    /* height:21vmin; */
+}
+.hide{
+
+    display: none;
+}
+.paraMess{
+
+}
